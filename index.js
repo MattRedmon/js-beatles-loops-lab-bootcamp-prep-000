@@ -17,3 +17,12 @@ function johnLennonFacts(array) {
   return arrayExclamation
 }
 
+function iLoveTheBeatles(num) {
+  arrNew = []
+  do {
+    arrNew.push("I love the Beatles!")
+    num++
+  } while (num < 15)
+  return arrNew
+}
+
