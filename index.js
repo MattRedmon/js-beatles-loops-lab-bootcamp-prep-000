@@ -9,5 +9,5 @@ function theBeatlesPlay(musicians, instrument) {
 
 function johnLennonFacts(array) {
   var arrayExclamation = []
-  
+  while ()
 }
