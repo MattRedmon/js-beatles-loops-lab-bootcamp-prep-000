@@ -9,5 +9,10 @@ function theBeatlesPlay(musicians, instrument) {
 
 function johnLennonFacts(array) {
   var arrayExclamation = []
-  while ()
+  var arrLength = array.length
+  while (arrLength > 0) {
+    arrayExclamation.push(array[arrLength])
+    arrLength--
+  }
+  return arrayExclamation
 }
