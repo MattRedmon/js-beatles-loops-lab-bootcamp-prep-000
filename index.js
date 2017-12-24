@@ -7,3 +7,7 @@ function theBeatlesPlay(musicians, instrument) {
   return arrayPlays
 }
 
+function johnLennonFacts(array) {
+  var arrayExclamation = []
+  
+}
