@@ -11,7 +11,7 @@ function johnLennonFacts(array) {
   var arrayExclamation = []
   var i = 0
   while (i < array.length) {
-    arrayExclamation.push(array[i])
+    arrayExclamation.push(array[i] + "!!!")
     i++
   }
   return arrayExclamation
