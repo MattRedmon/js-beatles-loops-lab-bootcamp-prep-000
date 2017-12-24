@@ -16,3 +16,4 @@ function johnLennonFacts(array) {
   }
   return arrayExclamation
 }
+
